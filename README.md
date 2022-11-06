@@ -2,7 +2,7 @@
 - 👀 I’m interested in mathematical computing
 - 🌱 I’m currently learning Scratch
 - 💞️ I’m looking to collaborate on anything written in Maple
-- 📫 How to reach me 3j0hn on Twitter, johnmay at gmail <a rel="me" href="https://mathstodon.xyz/@3j0hn">@j0hn@Mathstodon</a>
+- 📫 How to reach me 3j0hn on Twitter, johnmay at gmail <a rel="me" href="https://mathstodon.xyz/@3j0hn">@3j0hn@Mathstodon</a>
 
 <!---
 johnpmay/johnpmay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
